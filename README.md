@@ -14,8 +14,13 @@ Use the package manager [npm](https://nodejs.org/en/) to install dependencies fo
 
 ## Usage
 Use command
-```$ nodemon server
-or $ node server
+```
+ $ node server
+```
+or
+
+```
+ $ node server
 ```
 to run the application
 
